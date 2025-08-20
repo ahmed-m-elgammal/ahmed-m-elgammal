@@ -16,7 +16,6 @@ I am a Python Programmer && I am in love with Python <img src="https://media.gip
 - 🌱 Data analyst.
 - ⚡ In my free time I solve problems on leetcode and participate contests on codeforces.
 - 📫 How to reach me: &nbsp; 
-- <a href="https://www.linkedin.com/in/ahmed-m-elgammal/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 - Take a look here :
 - <a href="https://leetcode.com/Ahmed_ELGammal/"><img
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Leetcode.svg/660px-Leetcode.svg.png?20211206061116" title="Leetcode" alt="Leetcode" width="40" height="40"/>&nbsp;
